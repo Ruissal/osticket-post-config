@@ -15,7 +15,7 @@ This tutorial outlines the basics of configuration in the open-source help desk 
 - osTicket
 <h2>Content Preview</h2>
 
--[Implementing your SLA](#implementing-your-sla)   
+- [Implementing your SLA](#implementing-your-sla)   
 - 
 - 
 - 
@@ -26,7 +26,7 @@ This tutorial outlines the basics of configuration in the open-source help desk 
 
 
 
-<h2>Implementing your SLA</h2>
+# <h2>Implementing your SLA</h2>
 -
 -
 <h2>Organizing your departments</h2>
